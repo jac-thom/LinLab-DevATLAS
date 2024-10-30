@@ -1,0 +1,2432 @@
+"","X","Gene","Yap_2021","Tyssowski_2018","Hrvatin_2018","n_Yap_methods","na_sums"
+"1",1,"Serpinb2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs",NA,1,2
+"2",2,"Sprr1a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"3",3,"Wnt9b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"4",4,"Timp1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"5",5,"Rrad","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"6",6,"Etv3l","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"7",7,"Drd4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"8",8,"Muc3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"9",9,"Actg2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"10",10,"Krt6a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"11",11,"Atp12a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"12",12,"LOC102639902","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"13",13,"Atf3","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs (TF)",1,3
+"14",14,"Hspb1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"15",15,"Cda","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"16",16,"Gprc5a","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"17",17,"Col10a1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"18",18,"Krt75","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"19",19,"Gcg","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"20",20,"Ccl3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"21",21,"Mall","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"22",22,"Sp7","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"23",23,"Slc10a6","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"24",24,"Hspa1a","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"25",25,"Inhba","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs (sec)",3,2
+"26",26,"Ifi202b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"27",27,"Fos","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs (TF)",1,3
+"28",28,"Npas4","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs (TF)",1,3
+"29",29,"6430628N08Rik","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"30",30,"Fgf3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"31",31,"Thbs1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"32",32,"Trh","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"33",33,"Fosb","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs (TF)",1,3
+"34",34,"Lce1g","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"35",35,"Lif","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"36",36,"Bcl3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"37",37,"Hspa1b","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"38",38,"Slc15a1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"39",39,"Fam110c","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"40",40,"Il1rn","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"41",41,"Ascl2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"42",42,"Acan","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs",NA,1,2
+"43",43,"Cyr61","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs (sec)",2,2
+"44",44,"Sdc1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"45",45,"Procr","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"46",46,"Maff","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs (TF)",2,3
+"47",47,"Xirp1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"48",48,"Socs3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"49",49,"Tll1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_SRGs",NA,2,2
+"50",50,"Areg","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"51",51,"Plet1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"52",52,"Crh","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs (sec)",1,2
+"53",53,"Hist4h4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"54",54,"Fndc9","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"55",55,"Mapkapk3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"56",56,"Gadd45g","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs",2,3
+"57",57,"Cxcr4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"58",58,"Pthlh","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs",NA,1,2
+"59",59,"Pim1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",2,2
+"60",60,"Bag3","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"61",61,"F2rl2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"62",62,"Cd14","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"63",63,"Gal","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"64",64,"Itprip","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"65",65,"Sphk1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"66",66,"Ptgs2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",2,3
+"67",67,"Dntt","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"68",68,"Alb","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"69",69,"Baz1a","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"70",70,"Trim38","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"71",71,"Lcn2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"72",72,"Tnn","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs",NA,2,2
+"73",73,"Scd4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"74",74,"Pcdh8","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs",NA,2,2
+"75",75,"Flnc","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"76",76,"Abra","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"77",77,"Tgif1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"78",78,"Cym","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"79",79,"Ptx3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"80",80,"Tlr2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"81",81,"Slc4a11","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"82",82,"4930568B11Rik","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"83",83,"Blnk","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"84",84,"Il11","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"85",85,"Nfil3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"86",86,"Cdkn1a","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",1,3
+"87",87,"Tnfaip6","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"88",88,"Gadd45b","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",2,2
+"89",89,"Serpine1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"90",90,"Gpr3","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs",NA,1,2
+"91",91,"Egr2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs (TF)",1,3
+"92",92,"Crispld2","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs (sec)",1,2
+"93",93,"Gdnf","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"94",94,"Ptger2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"95",95,"Gem","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",1,3
+"96",96,"Nptx2","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_SRGs","V1 scRNAseq_SRGs (sec)",2,3
+"97",97,"Npy","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs (sec)",1,2
+"98",98,"Rhoj","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"99",99,"Dsc1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"100",100,"Sik1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"101",101,"Ghsr","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"102",102,"Tsku","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"103",103,"Mlf1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"104",104,"Nts","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"105",105,"Tnc","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"106",106,"Pdyn","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"107",107,"Pcsk1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs",NA,2,2
+"108",108,"Fgl2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"109",109,"Blvrb","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"110",110,"Tac1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"111",111,"Rgs2","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",2,3
+"112",112,"Rnd3","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",2,2
+"113",113,"Osmr","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"114",114,"Hbegf","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"115",115,"Kif18a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"116",116,"Bdnf","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs","V1 scRNAseq_SRGs (sec)",3,3
+"117",117,"Shroom3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"118",118,"C5ar1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"119",119,"Tiparp","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",1,3
+"120",120,"Itga5","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"121",121,"Stc1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs","V1 scRNAseq_PRGs (sec)",1,3
+"122",122,"Ifrd1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_PRGs",2,2
+"123",123,"Cgref1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,3,1
+"124",124,"Dgat2l6","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"125",125,"Scg2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs (sec)",3,3
+"126",126,"Arc","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs",2,3
+"127",127,"Lbh","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"128",128,"Peg10","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"129",129,"Gipr","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"130",130,"Elf4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"131",131,"Gch1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"132",132,"Trip10","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs",NA,1,2
+"133",133,"Dkk2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"134",134,"Gper1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs",NA,1,2
+"135",135,"Csrnp1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",2,3
+"136",136,"Jun","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"137",137,"Igf2bp2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"138",138,"Sst","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"139",139,"Klf4","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs (TF)",2,3
+"140",140,"Ppapdc1a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"141",141,"Myo18b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"142",142,"Sult2b1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"143",143,"Lrrc32","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"144",144,"Arhgef37","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"145",145,"Srgn","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"146",146,"Sertad1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs (TF)",2,3
+"147",147,"Cd164l2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"148",148,"Egr4","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs (TF)",1,3
+"149",149,"Baiap2l1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"150",150,"Sstr2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"151",151,"Arl4d","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"152",152,"Trib1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",2,2
+"153",153,"Aim1l","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"154",154,"Apold1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"155",155,"Crybg3","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"156",156,"Cdt1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"157",157,"Errfi1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"158",158,"Unc5b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"159",159,"Sap30","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"160",160,"Spata31d1b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"161",161,"Vim","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"162",162,"Aldh1a3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"163",163,"Spsb1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"164",164,"Fam129b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"165",165,"Nedd9","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"166",166,"Nfkbiz","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"167",167,"Spp1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs (sec)",1,2
+"168",168,"Zfp36","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs (TF)",1,2
+"169",169,"Klf14","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"170",170,"Fam46a","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",1,3
+"171",171,"Adcyap1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"172",172,"Fosl2","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs (TF)",2,3
+"173",173,"Sdcbp2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"174",174,"Gpx8","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"175",175,"Pnoc","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs",NA,1,2
+"176",176,"Lipg","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"177",177,"Nfatc1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"178",178,"Oscar","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"179",179,"Krt2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"180",180,"Etv3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"181",181,"Hmox1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"182",182,"Gm9525","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"183",183,"Spty2d1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"184",184,"Zfp516","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"185",185,"Fbxo47","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"186",186,"Pi15","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"187",187,"Cited2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_PRGs (TF)",2,2
+"188",188,"Ccna1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"189",189,"Stk40","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",2,3
+"190",190,"Pappa","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"191",191,"Pawr","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"192",192,"Kdm6b","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"193",193,"Fosl1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"194",194,"Cldn26","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"195",195,"Slco5a1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"196",196,"Zdbf2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",1,3
+"197",197,"Rasgef1b","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"198",198,"Cflar","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"199",199,"Ptgs1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"200",200,"Bach1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"201",201,"Amigo3","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs",NA,1,2
+"202",202,"Flna","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"203",203,"Ednrb","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"204",204,"Rgs4","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs",NA,2,2
+"205",205,"Tgfbr2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"206",206,"Arhgdib","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"207",207,"Sox9","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"208",208,"Kif4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"209",209,"Sox11","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"210",210,"Pvr","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",2,2
+"211",211,"Arpp21","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,3,1
+"212",212,"Btg2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs",1,3
+"213",213,"Rasl11a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"214",214,"Dnajb1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"215",215,"Dusp4","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"216",216,"C3ar1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"217",217,"Vegfa","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"218",218,"Prss23","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"219",219,"Srxn1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"220",220,"Rem2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"221",221,"Dpm3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"222",222,"Junb","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs (TF)",2,3
+"223",223,"Tnfrsf12a","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"224",224,"Sat1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"225",225,"Tpbg","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",2,2
+"226",226,"Gpr133","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"227",227,"Tet3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"228",228,"Rab39","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs",NA,1,2
+"229",229,"Cwc25","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"230",230,"Mt2","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"231",231,"Osgin2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"232",232,"Fam167a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"233",233,"Prokr2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"234",234,"Homer1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",2,2
+"235",235,"Plat","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"236",236,"Gjb2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"237",237,"Rai2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"238",238,"Nes","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"239",239,"Arhgap31","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"240",240,"Gltscr2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"241",241,"Crhbp","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_SRGs (sec)",1,3
+"242",242,"Pdlim1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs (TF)",1,2
+"243",243,"Map3k5","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"244",244,"Syt4","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_PRGs",2,2
+"245",245,"Gadd45a","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"246",246,"Sdf2l1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"247",247,"Ranbp2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"248",248,"Ier5","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"249",249,"Tmco5","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"250",250,"Nr4a3","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs (TF)",1,3
+"251",251,"9530077C05Rik","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"252",252,"Nrn1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_SRGs",1,3
+"253",253,"Bmp3","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs",NA,1,2
+"254",254,"Pmepa1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"255",255,"Smad7","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"256",256,"St8sia2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"257",257,"Gdpd5","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"258",258,"Dusp16","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"259",259,"Fgfr2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"260",260,"Spry2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",3,2
+"261",261,"Gxylt2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"262",262,"Eprs","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_SRGs",1,3
+"263",263,"Ppp1r13l","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"264",264,"Stk17b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"265",265,"Fmnl1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"266",266,"Ubc","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"267",267,"Tmem2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,3,1
+"268",268,"Cyp51","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"269",269,"Adra1a","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"270",270,"Aurka","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"271",271,"Prkar2a","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"272",272,"Egr3","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs",NA,1,2
+"273",273,"Atp11c","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"274",274,"Slc14a1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"275",275,"Gne","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"276",276,"Odc1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"277",277,"Magoh","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"278",278,"Rassf8","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"279",279,"Adpgk","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,3,1
+"280",280,"Adamts1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs (sec)",1,2
+"281",281,"Ly6a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"282",282,"Ina","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"283",283,"Frmd6","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_PRGs",2,2
+"284",284,"Fam107b","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"285",285,"Zfp948","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"286",286,"Bves","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"287",287,"Aff1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"288",288,"Hsph1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"289",289,"Vgf","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"290",290,"Lonrf3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"291",291,"Sbno2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"292",292,"Slc16a1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"293",293,"Mlip","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"294",294,"Rgs16","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"295",295,"Palld","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"296",296,"Hcn4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"297",297,"Maml3","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"298",298,"Gucy2e","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"299",299,"Dpysl5","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"300",300,"Dio2","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"301",301,"Hspb6","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"302",302,"Mapk4","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",2,2
+"303",303,"Arpp19","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"304",304,"Mapk6","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"305",305,"Ppp1r15a","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs",NA,1,2
+"306",306,"Ppm1h","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"307",307,"Hmga1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"308",308,"Emd","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"309",309,"Dusp1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs",2,3
+"310",310,"S100a10","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"311",311,"Rheb","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs","V1 scRNAseq_SRGs",2,3
+"312",312,"Fbxo33","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",2,3
+"313",313,"Drd1a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"314",314,"Klf10","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs (TF)",2,2
+"315",315,"Nr4a1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs (TF)",1,3
+"316",316,"Ier2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs",NA,1,2
+"317",317,"Cd68","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"318",318,"Hspa5","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"319",319,"Pmvk","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"320",320,"Sertm1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"321",321,"Sesn2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"322",322,"Gla","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"323",323,"Rorb","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"324",324,"Myc","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"325",325,"B4galt1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"326",326,"Smyd4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"327",327,"Prosc","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,3,1
+"328",328,"Dpy19l3","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,3,1
+"329",329,"Kitl","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs",NA,2,2
+"330",330,"Ppp1r3c","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"331",331,"Leng8","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"332",332,"Slc25a25","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"333",333,"Ccnf","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"334",334,"Isoc1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"335",335,"Rrp36","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"336",336,"Samd4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"337",337,"Tsc22d2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"338",338,"Slc7a5","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"339",339,"Igsf9b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"340",340,"Tchh","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"341",341,"Ctgf","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs (sec)",1,2
+"342",342,"Egr1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_rPRGs","V1 scRNAseq_PRGs (TF)",1,3
+"343",343,"Cry1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"344",344,"Hsd17b12","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_SRGs",1,3
+"345",345,"Gmeb2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs",NA,2,2
+"346",346,"Col6a2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"347",347,"Car12","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"348",348,"Slc25a32","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"349",349,"Vipr1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"350",350,"Dok5","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"351",351,"Txnl1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"352",352,"Tinf2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"353",353,"Tspan9","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"354",354,"Prkab2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"355",355,"Slc2a1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"356",356,"Jarid2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"357",357,"Zc3h12c","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"358",358,"Lmo2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"359",359,"Rgcc","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"360",360,"Rnh1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"361",361,"Rassf1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"362",362,"Rnf217","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"363",363,"Cd44","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"364",364,"Rasa2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"365",365,"Klf6","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",3,2
+"366",366,"Myh9","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"367",367,"Rest","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"368",368,"Filip1l","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"369",369,"Map2k3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"370",370,"Spry4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"371",371,"Plagl1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"372",372,"Sh3pxd2b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"373",373,"Tpm4","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"374",374,"Nav2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"375",375,"Elmo1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"376",376,"Sc5d","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"377",377,"Zmiz1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"378",378,"Pop1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"379",379,"Stat3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"380",380,"Sdc4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"381",381,"Penk","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs (sec)",1,2
+"382",382,"Brinp1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs",NA,2,2
+"383",383,"Btaf1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"384",384,"F3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"385",385,"Pabpc4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"386",386,"Vcl","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"387",387,"Fezf2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_SRGs",NA,1,2
+"388",388,"Furin","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"389",389,"H2afz","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"390",390,"Dnajb5","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",2,2
+"391",391,"Efhd2","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"392",392,"Galnt14","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"393",393,"Rtn4rl2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"394",394,"Klhl7","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"395",395,"Rrp1b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"396",396,"Sgk1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_PRGs",2,2
+"397",397,"Hmgcr","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"398",398,"Arid5b","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"399",399,"Tspan31","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"400",400,"Zfp703","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"401",401,"Rgs10","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"402",402,"Entpd7","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"403",403,"Rbpj","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"404",404,"Pxdn","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"405",405,"Kcnf1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"406",406,"Ezr","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"407",407,"Fgfr1op","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"408",408,"Rnft1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"409",409,"Rab33a","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"410",410,"Gad2","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"411",411,"Sorcs3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"412",412,"Rbbp7","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"413",413,"Wsb1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"414",414,"Slc3a2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"415",415,"Dusp14","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",1,3
+"416",416,"Msmo1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"417",417,"Plek","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"418",418,"Smim3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"419",419,"Slc5a3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"420",420,"Scrt2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"421",421,"Ubash3b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"422",422,"Plekha2","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"423",423,"Nup98","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"424",424,"Arl5b","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"425",425,"Ndc1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"426",426,"Ivns1abp","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"427",427,"Kcnk1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"428",428,"Irs2","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"429",429,"Snx1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"430",430,"Pim3","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"431",431,"Creb3l1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"432",432,"Itgav","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",3,2
+"433",433,"Hmgcs1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"434",434,"Mest","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"435",435,"Grasp","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",1,3
+"436",436,"Pfkfb3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"437",437,"Sbds","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"438",438,"Slc2a3","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs",NA,2,2
+"439",439,"Lonrf1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,3,1
+"440",440,"Stmn4","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,3,1
+"441",441,"Acvr1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"442",442,"Cap1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"443",443,"Dmxl1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"444",444,"Tmem178","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"445",445,"Grem2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"446",446,"Eif2b3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"447",447,"Tmem47","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"448",448,"Acsl4","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",2,3
+"449",449,"Tead1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"450",450,"Lrfn2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"451",451,"Myo1b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"452",452,"Gprc5b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"453",453,"Nrp1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"454",454,"Gpr151","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"455",455,"Atp7a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"456",456,"Plk2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"457",457,"Bcor","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"458",458,"Rgs9","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"459",459,"Lmo7","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"460",460,"Creb3l2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"461",461,"Eaf1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"462",462,"Rnf128","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs",NA,2,2
+"463",463,"Ets2","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs (TF)",1,2
+"464",464,"Kremen1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"465",465,"Ell2","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"466",466,"Stat5b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"467",467,"Midn","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"468",468,"Phlpp1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"469",469,"Rhoq","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"470",470,"Dusp6","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"471",471,"Popdc3","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"472",472,"Pdlim5","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"473",473,"Slc6a8","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"474",474,"Zfp52","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"475",475,"Abhd2","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"476",476,"Chga","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"477",477,"Nudt9","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"478",478,"Amotl1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"479",479,"BC022687","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"480",480,"Rbm15","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"481",481,"Clk4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"482",482,"Fam98a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"483",483,"Per2","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs",NA,2,2
+"484",484,"Akap13","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"485",485,"Ccrn4l","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"486",486,"Nabp1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"487",487,"Itpkc","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"488",488,"Klf5","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"489",489,"1190002N15Rik","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_PRGs",2,2
+"490",490,"Fam222a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"491",491,"Atf4","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs (TF)",2,2
+"492",492,"Tgfb2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"493",493,"Tbkbp1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"494",494,"Med7","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"495",495,"Mamld1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"496",496,"Klhdc4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"497",497,"Rgs20","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"498",498,"Setd8","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"499",499,"Kdm7a","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"500",500,"1700088E04Rik","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"501",501,"Mcl1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"502",502,"Phf13","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"503",503,"Hax1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"504",504,"Cdca4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"505",505,"Mapkapk2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"506",506,"Ankrd33b","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"507",507,"Ginm1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"508",508,"Lrtm2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"509",509,"Pdzd2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"510",510,"Hspa8","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"511",511,"Taf1a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"512",512,"Fam65b","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"513",513,"Coro1c","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"514",514,"Tspan18","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"515",515,"Por","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"516",516,"Mob1a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"517",517,"Nefl","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_SRGs",1,3
+"518",518,"Usp13","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"519",519,"Cltc","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"520",520,"Rara","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"521",521,"Ciapin1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"522",522,"Slc19a2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"523",523,"Cstb","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"524",524,"Glra2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"525",525,"Pam","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs","V1 scRNAseq_SRGs (sec)",2,3
+"526",526,"Fam43a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"527",527,"Ppm1l","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"528",528,"Zdhhc14","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"529",529,"Arf2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"530",530,"Rbm12b2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"531",531,"Ovca2","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"532",532,"Slc20a1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"533",533,"Metrnl","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"534",534,"Rcan2","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"535",535,"Mt1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"536",536,"Megf11","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"537",537,"Uba6","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"538",538,"Kdm3a","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"539",539,"Ptpn12","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_PRGs",2,2
+"540",540,"Arfgap2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"541",541,"Fam53b","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"542",542,"Ppp1r15b","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"543",543,"Ece1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"544",544,"Tra2a","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",2,2
+"545",545,"Fam126b","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"546",546,"Rel","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"547",547,"Cltb","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"548",548,"Ccnk","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"549",549,"Usp53","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_PRGs",1,2
+"550",550,"E330009J07Rik","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"551",551,"Slc7a6os","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"552",552,"Alkbh1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"553",553,"Rims4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"554",554,"Mphosph10","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"555",555,"Pdgfb","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"556",556,"Il1r1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"557",557,"Zfp667","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"558",558,"Gm20604","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"559",559,"Slc2a13","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"560",560,"Moap1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"561",561,"Fgfr1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"562",562,"Kcnd3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"563",563,"Rbm12b1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"564",564,"Peli1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"565",565,"Soat1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"566",566,"Abt1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"567",567,"Trim36","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"568",568,"Dlgap2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"569",569,"Chml","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_dPRGs",NA,2,2
+"570",570,"Ppm1d","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"571",571,"Fndc3a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"572",572,"Deb1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"573",573,"Nolc1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"574",574,"Tanc1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"575",575,"Tgfb1i1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"576",576,"Wdfy1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"577",577,"D16Ertd472e","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"578",578,"Rwdd4a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"579",579,"Sstr3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"580",580,"Eif2ak4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"581",581,"Lpp","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"582",582,"Cpm","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"583",583,"Usp16","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"584",584,"Uhrf2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"585",585,"Sap18","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"586",586,"Nmd3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"587",587,"Rps6ka3","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"588",588,"Igfbp3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"589",589,"Alkbh5","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"590",590,"Per1","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs","V1 scRNAseq_PRGs (TF)",1,3
+"591",591,"Gpr176","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"592",592,"Gad1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"593",593,"Cinp","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"594",594,"Cstf1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"595",595,"Lamtor3","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"596",596,"Kctd15","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"597",597,"Ptchd1","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"598",598,"Fryl","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"599",599,"Ints7","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"600",600,"Ntrk2","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"601",601,"Gramd1b","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"602",602,"Pdrg1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"603",603,"Rcan1","CaMK2a-Ribotag_6h post KA/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"604",604,"Cdh9","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"605",605,"Tulp4","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"606",606,"R3hdm1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",3,2
+"607",607,"Tpt1","CaMK2a-Ribotag_6h post KA",NA,"V1 scRNAseq_SRGs",1,2
+"608",608,"Slc6a17","CaMK2a-Ribotag_6h post KA","in situ sustained depol_dPRGs",NA,1,2
+"609",609,"Ptp4a2","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"610",610,"Zfc3h1","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,3,1
+"611",611,"Rbm14","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"612",612,"Naca","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"613",613,"Mylk","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"614",614,"Stk38l","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"615",615,"Hars","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"616",616,"Gsg1l","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"617",617,"Ptpn23","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"618",618,"Lman2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"619",619,"Med13","CaMK2a-Ribotag_6h post KA/FFJ KO snRNAseq_affected by AP1 KO",NA,NA,2,1
+"620",620,"Pla2g7","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"621",621,"Spred2","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"622",622,"Zfp655","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"623",623,"Stx4a","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"624",624,"Gpr56","CaMK2a-Ribotag_6h post KA",NA,NA,1,1
+"625",625,"Gpr85","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"626",626,"Mir124-2hg","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"627",627,"Gm4128","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"628",628,"Ndst3","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"629",629,"4933413L06Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"630",630,"Ddit4l","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"631",631,"Gm20186","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"632",632,"Sema3e","FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_SRGs",NA,1,2
+"633",633,"Gm11146","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"634",634,"Hcn1","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"635",635,"RP23-407N2.2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"636",636,"Dlg1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"637",637,"Htr1b","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"638",638,"Epha7","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"639",639,"Bmpr1b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"640",640,"Htr2a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"641",641,"Gm26658","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"642",642,"Zfp804a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"643",643,"Gm26905","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"644",644,"Robo1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"645",645,"Serpini1","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"646",646,"Cnr1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"647",647,"Kcnh7","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"648",648,"Rims2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"649",649,"Trpc5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"650",650,"Dpysl3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"651",651,"Gpr22","FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs",NA,1,2
+"652",652,"Arl4a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"653",653,"Cdh10","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"654",654,"Ptprk","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"655",655,"Pcdh17","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"656",656,"Lsm11","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"657",657,"Kcna4","FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_SRGs",NA,1,2
+"658",658,"Gm44188","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"659",659,"Gpm6a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"660",660,"Syt10","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"661",661,"C1ql3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"662",662,"Gm21798","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"663",663,"Hcrtr2","FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs",NA,1,2
+"664",664,"Kcnj3","FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs",NA,1,2
+"665",665,"Etv1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"666",666,"Cep85l","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"667",667,"Epha6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"668",668,"Scn1a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"669",669,"Pls3","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"670",670,"Neto1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"671",671,"Gfra1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"672",672,"Trpc5os","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"673",673,"Omg","FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_SRGs",NA,1,2
+"674",674,"Ptpdc1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"675",675,"Wls","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"676",676,"Slc26a4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"677",677,"Nr2f1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"678",678,"Galntl6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"679",679,"Nrsn1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"680",680,"Gm26652","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"681",681,"4732440D04Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"682",682,"Gm20754","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"683",683,"Gm26719","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"684",684,"Itga8","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"685",685,"3110039M20Rik.1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"686",686,"Epha5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"687",687,"Calb1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"688",688,"Cntn3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"689",689,"Ndst4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"690",690,"Fam188a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"691",691,"Lrrc4c","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"692",692,"Pde1a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"693",693,"Tmem200a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"694",694,"Mmp16","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"695",695,"Gm16000","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"696",696,"Hdac9","FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_SRGs",NA,1,2
+"697",697,"Gabrg2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"698",698,"Il12rb2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"699",699,"Lgi1","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs (sec)",1,2
+"700",700,"Plpp3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"701",701,"Nyap2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"702",702,"Sparcl1","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"703",703,"Gm38112","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"704",704,"Micu3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"705",705,"Adcy8","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"706",706,"Rab3c","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"707",707,"Lsm8","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"708",708,"Pcdh9","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"709",709,"Cacna2d1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"710",710,"Rfxap","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"711",711,"Gria2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"712",712,"Slitrk5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"713",713,"Zfp281","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"714",714,"Gpr63","FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_SRGs",NA,1,2
+"715",715,"Khdrbs2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"716",716,"Gm15345","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"717",717,"Slc7a14","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"718",718,"Gm28376","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"719",719,"Nectin3","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"720",720,"Dmd","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"721",721,"Jakmip2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"722",722,"Mpzl3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"723",723,"Lmo3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"724",724,"Tnfrsf23","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"725",725,"Kctd4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"726",726,"Satb2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"727",727,"4933411O13Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"728",728,"Gm2464.1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"729",729,"RP24-236C17.3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"730",730,"A230006K03Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"731",731,"4930509J09Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"732",732,"Sox5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"733",733,"B3galt2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"734",734,"Gabra2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"735",735,"Gabra1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"736",736,"Gabrb1","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"737",737,"Cntnap2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"738",738,"Bcl9","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"739",739,"Ppp4r4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"740",740,"Hspa4l","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"741",741,"Galnt3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"742",742,"4921539H07Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"743",743,"Rspo3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"744",744,"Lrfn5","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"745",745,"Lurap1l","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"746",746,"Tmem246","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"747",747,"Alcam","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_PRGs",1,2
+"748",748,"Kirrel3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"749",749,"Dcbld2","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"750",750,"Gm30382","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"751",751,"Slit2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"752",752,"Vmp1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"753",753,"Fbn2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"754",754,"1-Mar","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"755",755,"Jph1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"756",756,"Nek9","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"757",757,"Fam135b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"758",758,"Gm43376","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"759",759,"Chrm3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"760",760,"Gm1604b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"761",761,"Gm1604a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"762",762,"Csrnp3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"763",763,"Scn2a1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"764",764,"Phf6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"765",765,"Il1rapl1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"766",766,"Rab3ip","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"767",767,"Gnai1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"768",768,"Fras1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"769",769,"Jak2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"770",770,"Gm28750","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"771",771,"Tox","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"772",772,"Gm15398","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"773",773,"Gpc4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"774",774,"Csmd3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"775",775,"Gap43","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"776",776,"Plppr4","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",2,2
+"777",777,"Zufsp","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"778",778,"Gm26854","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"779",779,"Syt1","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"780",780,"Uty","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"781",781,"Zbtb20","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"782",782,"Nrxn1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"783",783,"Pak3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"784",784,"Usp25","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"785",785,"Dlg2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"786",786,"Fbn1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"787",787,"4930545L23Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"788",788,"Nf2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"789",789,"Cnksr2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"790",790,"B630005N14Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"791",791,"Nap1l3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"792",792,"Kcnd2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"793",793,"Gcnt2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"794",794,"Cttnbp2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"795",795,"Lrrc7","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"796",796,"C130071C03Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"797",797,"Ppp1r12a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"798",798,"Sntg1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"799",799,"Ddx26b","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"800",800,"Efnb2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"801",801,"Cdc14b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"802",802,"Gm37459","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"803",803,"Sgtb","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"804",804,"Pex5l","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"805",805,"Gm26936","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"806",806,"Dbpht2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"807",807,"Plppr5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"808",808,"Lsamp","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"809",809,"Nfib","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"810",810,"Zeb2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"811",811,"Tusc3","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"812",812,"Tenm3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"813",813,"Ldb2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"814",814,"1810034E14Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"815",815,"Apba1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"816",816,"Flrt2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"817",817,"Robo2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"818",818,"Ppfia2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"819",819,"Thap2","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"820",820,"Pcsk5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"821",821,"Clvs1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"822",822,"Gabrb2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"823",823,"Gm17202","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"824",824,"Lix1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"825",825,"Naf1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"826",826,"Stxbp5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"827",827,"Csnk1g3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"828",828,"Gm15594","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"829",829,"Slc4a10","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"830",830,"Ankrd28","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"831",831,"Rapgef5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"832",832,"Slitrk3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"833",833,"4930419G24Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"834",834,"Dock4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"835",835,"4930554G24Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"836",836,"Cadm2","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"837",837,"Adgrb3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"838",838,"Fam171b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"839",839,"Tcaf1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"840",840,"Cers6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"841",841,"Arl13b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"842",842,"Zdhhc2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"843",843,"Stxbp5l","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"844",844,"Ralyl","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"845",845,"Ubr1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"846",846,"Pkn2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"847",847,"Dnah9","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"848",848,"Ypel5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"849",849,"Gm1992","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"850",850,"C530008M17Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"851",851,"Dip2c","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"852",852,"Cmtm4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"853",853,"Ephx4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"854",854,"Osbpl8","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"855",855,"4930512B01Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"856",856,"Cyb5a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"857",857,"Gm12027","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"858",858,"Parm1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"859",859,"Gm13269","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"860",860,"Hectd2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"861",861,"Nab1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"862",862,"Gda","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"863",863,"Tbc1d23","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"864",864,"1700086L19Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"865",865,"Trpc4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"866",866,"Ncoa7","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"867",867,"Grm5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"868",868,"Kcnip4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"869",869,"Dtna","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"870",870,"Slitrk4","FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_SRGs",NA,1,2
+"871",871,"Lrp1b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"872",872,"Oxr1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"873",873,"Pak7","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"874",874,"Crebzf","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"875",875,"Magi2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"876",876,"Tbc1d9","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"877",877,"Gmcl1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"878",878,"Runx1t1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"879",879,"Myo16","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"880",880,"Lats2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"881",881,"Zfand6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"882",882,"Man1a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"883",883,"Ugcg","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"884",884,"Nlgn1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"885",885,"Rb1cc1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"886",886,"Lpl","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"887",887,"Prepl","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"888",888,"Gm11817","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"889",889,"Gtf2f2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"890",890,"Tlk1","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"891",891,"Mal2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"892",892,"Scube1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"893",893,"Ccser1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"894",894,"Unc80","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"895",895,"Trps1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"896",896,"Pdgfc","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"897",897,"Yaf2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"898",898,"Lrrk2","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_PRGs",1,2
+"899",899,"Rgs7","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"900",900,"Nbea","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"901",901,"Ndfip2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"902",902,"Ano3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"903",903,"Zfp608","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"904",904,"Grin3a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"905",905,"Ncam2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"906",906,"Map2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"907",907,"Man2a1","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"908",908,"Epha3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"909",909,"Cdh6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"910",910,"Tmem126a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"911",911,"Gm17056","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"912",912,"Nos1ap","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"913",913,"Zfhx4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"914",914,"Srsf11","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"915",915,"Efr3a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"916",916,"Gls","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"917",917,"Rgs7bp","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"918",918,"Exoc5","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"919",919,"Tmeff2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"920",920,"St6galnac5","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"921",921,"Gm10848","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"922",922,"Pcdh10","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"923",923,"Prkg1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"924",924,"1700087M22Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"925",925,"Cntn1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"926",926,"Pgm2l1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"927",927,"Mboat2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"928",928,"Ptprd","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"929",929,"Unc5c","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"930",930,"Ccser2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"931",931,"Psd3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"932",932,"Mbd5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"933",933,"Cep83","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"934",934,"Ctnnd2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"935",935,"Gk","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"936",936,"Rras2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"937",937,"Cacnb2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"938",938,"Ptpn4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"939",939,"3-Mar","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"940",940,"Serbp1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"941",941,"Rap2b","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"942",942,"Fmr1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"943",943,"Rad52","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"944",944,"Tle1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"945",945,"Cpd","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"946",946,"Reps2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"947",947,"5330434G04Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"948",948,"7-Sep","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"949",949,"Gm11250","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"950",950,"Dgkb","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"951",951,"Ptn","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"952",952,"Fam220a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"953",953,"3110035E14Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"954",954,"Cog5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"955",955,"Cdyl","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"956",956,"Bcl6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"957",957,"Arhgef9","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"958",958,"Mpp5","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"959",959,"Cadps2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"960",960,"Abi1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"961",961,"Sphkap","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"962",962,"Gpr137c","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"963",963,"Map4k5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"964",964,"Nrg3os","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"965",965,"Gm26742","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"966",966,"Arfgef3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"967",967,"D930016D06Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"968",968,"Hs6st3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"969",969,"Vamp4","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"970",970,"2900055J20Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"971",971,"Pkp4","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"972",972,"Gpc5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"973",973,"Psmc6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"974",974,"Gria3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"975",975,"Otud7a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"976",976,"Cntn4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"977",977,"Hdx","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"978",978,"Gm28960","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"979",979,"Ccny","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"980",980,"BC005561","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"981",981,"Tbk1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"982",982,"Lnp","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"983",983,"Rab8b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"984",984,"Ociad2","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"985",985,"Kctd16","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"986",986,"Nell2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"987",987,"Cwf19l2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"988",988,"Snca","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"989",989,"Syne1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"990",990,"Erc1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"991",991,"Pigk","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"992",992,"Plcb1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"993",993,"5031415H12Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"994",994,"Nebl","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"995",995,"Cntnap5c","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"996",996,"Gabra5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"997",997,"Meaf6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"998",998,"Lrrc8c","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"999",999,"Fmn2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1000",1000,"Sub1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1001",1001,"Rims1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1002",1002,"Clvs2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1003",1003,"Arl15","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1004",1004,"Dok6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1005",1005,"Bbs5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1006",1006,"Sfmbt1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1007",1007,"Nkain2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1008",1008,"4932438A13Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1009",1009,"Lmo4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1010",1010,"Man1a2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1011",1011,"B3galt1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1012",1012,"Osbpl6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1013",1013,"1700024B18Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1014",1014,"Fam19a1","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs (sec)",2,2
+"1015",1015,"Celf2","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"1016",1016,"Me3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1017",1017,"Trpc1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1018",1018,"Aff3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1019",1019,"Sybu","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1020",1020,"Tnks","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1021",1021,"Gucy1a2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1022",1022,"Kcnq5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1023",1023,"Actr2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1024",1024,"Stmn2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1025",1025,"Nol4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1026",1026,"Evl","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1027",1027,"Chm","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1028",1028,"Gpm6b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1029",1029,"Rasal2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1030",1030,"Srpk2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1031",1031,"Tbc1d22b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1032",1032,"Adgrl3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1033",1033,"Nfia","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1034",1034,"Lin7a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1035",1035,"Hs6st2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1036",1036,"Atp6v1h","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1037",1037,"Luzp2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1038",1038,"Nrcam","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1039",1039,"Adam22","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1040",1040,"Acp1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1041",1041,"Herc2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1042",1042,"Tspan13","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1043",1043,"Hipk3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1044",1044,"Cpe","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1045",1045,"Ttll7","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1046",1046,"Gm16152","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1047",1047,"Cadm1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1048",1048,"Sptb","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1049",1049,"Gtpbp2","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"1050",1050,"Xkr4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1051",1051,"Wasf1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1052",1052,"Dlgap1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1053",1053,"Rab3gap2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1054",1054,"App","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1055",1055,"Elmod1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1056",1056,"Gabra4","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"1057",1057,"Ttc3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1058",1058,"Pde4d","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1059",1059,"Chn1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1060",1060,"Akap6","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1061",1061,"Rtn4","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"1062",1062,"Atp2b1","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"1063",1063,"Mbd2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1064",1064,"Atp2c1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1065",1065,"Ube3a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1066",1066,"Mbnl2","FFJ KO snRNAseq_affected by AP1 KO","in situ sustained depol_dPRGs",NA,1,2
+"1067",1067,"Ankrd13c","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1068",1068,"Nr3c2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1069",1069,"Raph1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1070",1070,"Epb41l1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1071",1071,"Grik2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1072",1072,"Gm21747","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1073",1073,"Vsnl1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1074",1074,"Usp14","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1075",1075,"Sdcbp","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1076",1076,"Galnt1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1077",1077,"Foxp1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1078",1078,"Dnajc1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1079",1079,"Tceal5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1080",1080,"Sik2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1081",1081,"Rap1b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1082",1082,"Ipmk","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1083",1083,"Fbl","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1084",1084,"Tenm2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1085",1085,"Rab11fip3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1086",1086,"Fnip1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1087",1087,"2010111I01Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1088",1088,"Arhgef3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1089",1089,"Atxn1","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"1090",1090,"Mfhas1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1091",1091,"Ssh2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1092",1092,"Xist","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1093",1093,"Mmd","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1094",1094,"Cdc42bpa","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1095",1095,"Plppr2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1096",1096,"Gphn","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"1097",1097,"Cdk17","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"1098",1098,"Ly6h","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1099",1099,"Nav3","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"1100",1100,"Slc8a1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1101",1101,"Ptprg","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1102",1102,"Kif1b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1103",1103,"Ppp3ca","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1104",1104,"Ankrd17","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1105",1105,"Mapk10","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1106",1106,"Zmynd11","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1107",1107,"Crim1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1108",1108,"Eml5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1109",1109,"Spred1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1110",1110,"Etv5","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_SRGs",1,2
+"1111",1111,"Nrg3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1112",1112,"B230334C09Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1113",1113,"2310035C23Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1114",1114,"Ube2e2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1115",1115,"Map4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1116",1116,"Fam189a1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1117",1117,"Snap25","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1118",1118,"Gabrb3","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1119",1119,"Dcc","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1120",1120,"Zfand5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1121",1121,"Zfr","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"1122",1122,"Calm1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1123",1123,"Gm21954","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1124",1124,"Csmd1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1125",1125,"Dclk1","FFJ KO snRNAseq_affected by AP1 KO",NA,"V1 scRNAseq_PRGs",1,2
+"1126",1126,"Dock9","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1127",1127,"Nsf","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1128",1128,"Frmpd4","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1129",1129,"Trim9","FFJ KO snRNAseq_affected by AP1 KO/CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,2,1
+"1130",1130,"Enox1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1131",1131,"Mycbp2","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1132",1132,"5730522E02Rik","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1133",1133,"Exoc6b","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1134",1134,"Plekha5","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1135",1135,"Nedd4l","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1136",1136,"Fam155a","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1137",1137,"Malat1","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1138",1138,"Ppm1e","FFJ KO snRNAseq_affected by AP1 KO",NA,NA,1,1
+"1139",1139,"Eya1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1140",1140,"Gm39615","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1141",1141,"2010300C02Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1142",1142,"9330175M20Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1143",1143,"Mpp4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1144",1144,"Gm33517","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1145",1145,"Hjurp","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1146",1146,"B230216N24Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",1,2
+"1147",1147,"Serpinb8","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1148",1148,"Actr3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1149",1149,"Zranb3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1150",1150,"Dennd1b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1151",1151,"LOC102640772","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1152",1152,"Edem3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1153",1153,"Zbtb37","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1154",1154,"Gas5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1155",1155,"Dcaf6","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1156",1156,"Mpc2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1157",1157,"Opn3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1158",1158,"Gm39707","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1159",1159,"D730003I15Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1160",1160,"Ascc3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1161",1161,"LOC105245152","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1162",1162,"Sim1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1163",1163,"Zwint","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1164",1164,"Ptbp1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1165",1165,"Ric8b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1166",1166,"Hsp90b1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1167",1167,"Ttc41","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1168",1168,"Gm40750","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1169",1169,"Gm30041","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1170",1170,"Sertad2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1171",1171,"Wdpcp","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1172",1172,"Mdh1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1173",1173,"Gm12059","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1174",1174,"G3bp1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1175",1175,"Usp22","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1176",1176,"Zswim7","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1177",1177,"Ttc19","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1178",1178,"Spag9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",1,2
+"1179",1179,"Atp5g1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1180",1180,"Gm30809","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1181",1181,"Recql5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1182",1182,"Sap30bp","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1183",1183,"Eif4a3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1184",1184,"Rab10os","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1185",1185,"Gm40421","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1186",1186,"Ralgapa1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1187",1187,"Gm32151","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1188",1188,"Aldh6a1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1189",1189,"Lin52","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",1,2
+"1190",1190,"Gm10433","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1191",1191,"Otub2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1192",1192,"Snhg10","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1193",1193,"Glrx5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1194",1194,"B930059L03Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1195",1195,"Stard3nl","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1196",1196,"Gm34466","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1197",1197,"LOC108168081","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1198",1198,"Isca1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1199",1199,"Etohd2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1200",1200,"Otp","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1201",1201,"Foxd1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1202",1202,"Gm32703","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1203",1203,"Gm33045","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1204",1204,"Isl1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1205",1205,"Ecd","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1206",1206,"Fam149b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1207",1207,"Hnrnpc","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1208",1208,"Rpgrip1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1209",1209,"Wdfy2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1210",1210,"Mir8098","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1211",1211,"Gm41176","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1212",1212,"Hmbox1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1213",1213,"Ints9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1214",1214,"Clu","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs (sec)",1,2
+"1215",1215,"Gm35218","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1216",1216,"Gm41230","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1217",1217,"Gm4681","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1218",1218,"Rap2a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1219",1219,"Gm32011","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1220",1220,"Osr2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1221",1221,"Eny2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1222",1222,"Nudcd1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1223",1223,"Tmem65","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1224",1224,"Gm32994","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1225",1225,"Dnal4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1226",1226,"Gm30977","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1227",1227,"Tarbp2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1228",1228,"Slx4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1229",1229,"Ubald1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",1,2
+"1230",1230,"Pkp2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1231",1231,"Ppp1r2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1232",1232,"Hspbap1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1233",1233,"4932412D23Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1234",1234,"Gm5486","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1235",1235,"Cblb","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1236",1236,"Tfg","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1237",1237,"Zbtb21","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1238",1238,"Pacrg","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1239",1239,"Park2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1240",1240,"9030025P20Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1241",1241,"Gm3417","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1242",1242,"Gm3435","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1243",1243,"Gm3448","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1244",1244,"Ermard","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1245",1245,"Tcte3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1246",1246,"Hagh","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1247",1247,"Prrc2a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",1,2
+"1248",1248,"Znrd1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1249",1249,"Znrd1as","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1250",1250,"Rab5a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1251",1251,"Khsrp","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1252",1252,"Ndufv2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1253",1253,"Myl12a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",1,2
+"1254",1254,"LOC108168340","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1255",1255,"Socs5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1256",1256,"Gm30510","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1257",1257,"9430020K01Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1258",1258,"3110002H16Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1259",1259,"Ammecr1l","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1260",1260,"Wdr36","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1261",1261,"4930455D15Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1262",1262,"Lrrtm2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1263",1263,"Sil1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1264",1264,"Ankhd1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1265",1265,"Gm41699","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1266",1266,"A330093E20Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1267",1267,"Bvht","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1268",1268,"Nars","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1269",1269,"Gm41756","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1270",1270,"Gm9925","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1271",1271,"Adnp2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1272",1272,"Gm31089","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1273",1273,"Frmd8os","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1274",1274,"Gm44505","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1275",1275,"Zfp91","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1276",1276,"Lpxn","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1277",1277,"2410080I02Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1278",1278,"Gm20467","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1279",1279,"LOC108168417","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1280",1280,"Sfr1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1281",1281,"Dclre1c","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1282",1282,"LOC105244085","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1283",1283,"Prdm12","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1284",1284,"Gtdc1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1285",1285,"Gm30792","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1286",1286,"Chn1os3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1287",1287,"Zdhhc5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1288",1288,"Pak6","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1289",1289,"Gm30986","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1290",1290,"Prn","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1291",1291,"Prnp","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1292",1292,"Slx4ip","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1293",1293,"Mkks","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1294",1294,"Elmo2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1295",1295,"Mrpl47","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1296",1296,"Ndufb5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1297",1297,"Cetn4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1298",1298,"Bbs12","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1299",1299,"Pdcd10","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1300",1300,"Map9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1301",1301,"Gm3740","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1302",1302,"Gatb","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1303",1303,"Prcc","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1304",1304,"Gm40093","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1305",1305,"Ensa","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1306",1306,"LOC108168904","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1307",1307,"Mttp","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1308",1308,"Trmt10a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1309",1309,"Lhx8","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1310",1310,"AI606473","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1311",1311,"Fpgt","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1312",1312,"Lrriq3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1313",1313,"3110043O21Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1314",1314,"1700055D18Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1315",1315,"Zbtb5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1316",1316,"Gm12506","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1317",1317,"Gm12415","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1318",1318,"Klhl9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1319",1319,"Zfyve9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1320",1320,"Mmachc","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1321",1321,"Ccdc163","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1322",1322,"Hpcal4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1323",1323,"Map7d1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1324",1324,"Camta1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1325",1325,"LOC102631977","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1326",1326,"Dnajb6","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1327",1327,"Gm5129","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1328",1328,"Rab28","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1329",1329,"Med28","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1330",1330,"Gm33167","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1331",1331,"Phox2b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1332",1332,"4930542N06Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1333",1333,"Lrrc8b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1334",1334,"A830010M20Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1335",1335,"Crlf2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1336",1336,"Hscb","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1337",1337,"Chek2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1338",1338,"Pop5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1339",1339,"Tbx3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1340",1340,"Tbx3os1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1341",1341,"Eif3b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1342",1342,"Gm36446","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1343",1343,"Katnal1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1344",1344,"Ing3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs (TF)",1,2
+"1345",1345,"Ccdc126","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1346",1346,"Cycs","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1347",1347,"5430402O13Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1348",1348,"Skap2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1349",1349,"Hottip","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1350",1350,"Nt5c3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1351",1351,"Vmn1r4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1352",1352,"Eif2ak3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1353",1353,"1700003E16Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1354",1354,"Wdr54","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1355",1355,"Zfp248","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1356",1356,"Necap1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1357",1357,"LOC102634873","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1358",1358,"LOC108169173","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1359",1359,"4930579D09Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1360",1360,"1700073E17Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1361",1361,"Zfp444","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1362",1362,"Napa","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1363",1363,"9330104G04Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1364",1364,"Dact3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1365",1365,"Tomm40","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1366",1366,"Gm38955","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1367",1367,"Sptbn4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1368",1368,"Gm38972","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1369",1369,"Zfp790","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1370",1370,"Lin37","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1371",1371,"Gm31597","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1372",1372,"Asb7","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1373",1373,"Lins1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1374",1374,"Arrdc4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1375",1375,"E430016F16Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1376",1376,"Gm42400","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1377",1377,"Gm35363","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1378",1378,"Coq7","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1379",1379,"Edrf1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1380",1380,"LOC108167465","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1381",1381,"Inpp5a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1382",1382,"Gm6410","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1383",1383,"Snord13","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1384",1384,"Tti2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1385",1385,"Zfp869","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1386",1386,"Ocel1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1387",1387,"Usp38","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1388",1388,"Elmod2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1389",1389,"Gm32327","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1390",1390,"Crnde","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1391",1391,"Got2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1392",1392,"Aasdhppt","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1393",1393,"Kbtbd3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1394",1394,"Cep57","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1395",1395,"Fam76b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1396",1396,"Zfp317","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1397",1397,"Tbx20","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1398",1398,"Gm10910","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1399",1399,"Olfr251","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1400",1400,"Fdxacb1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1401",1401,"Foxb1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1402",1402,"Gm35261","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1403",1403,"Tbx18","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1404",1404,"Pccb","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1405",1405,"2310075C17Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1406",1406,"D330037F02Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1407",1407,"Gm39469","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1408",1408,"LOC105247294","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1409",1409,"Nkx2-3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1410",1410,"LOC106557447","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1411",1411,"Gm36375","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1412",1412,"Neat1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1413",1413,"Gm42056","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1414",1414,"Dirc2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1415",1415,"Gm40337","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1416",1416,"Gm31475","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1417",1417,"Helt","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1418",1418,"Gm41113","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1419",1419,"E130317F20Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1420",1420,"Rccd1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1421",1421,"Hlx","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1422",1422,"Gzmn","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1423",1423,"D130079A08Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1424",1424,"Igf2bp3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1425",1425,"Gm34548","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1426",1426,"Gm41080","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1427",1427,"B230323A14Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1428",1428,"LOC108167741","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1429",1429,"Gm41011","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1430",1430,"Gm36913","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1431",1431,"Gm35607","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1432",1432,"Gata6","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1433",1433,"Gm12496","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1434",1434,"LOC108168324","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1435",1435,"Nln","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1436",1436,"A930028N01Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1437",1437,"LOC108167694","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1438",1438,"1010001N08Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1439",1439,"Gm36395","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1440",1440,"Dleu2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1441",1441,"Serpinb7","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1442",1442,"Gm32289","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1443",1443,"Gm31419","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1444",1444,"Gm38748","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1445",1445,"Mir9-2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1446",1446,"A130051J06Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1447",1447,"C530044C16Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1448",1448,"Gm29485","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1449",1449,"Gm26536","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1450",1450,"Slc35c2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1451",1451,"Gm30262","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1452",1452,"Gm30456","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1453",1453,"Ankrd55","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1454",1454,"Zic2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1455",1455,"Gm41298","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1456",1456,"4930526I15Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1457",1457,"Rd3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1458",1458,"Gpd1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",1,2
+"1459",1459,"Csf2ra","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1460",1460,"Gm29824","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1461",1461,"Gm35248","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1462",1462,"Ldhd","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1463",1463,"Gm41308","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1464",1464,"Hcrtr1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1465",1465,"Zfp219","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1466",1466,"Gm34150","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1467",1467,"Gm11568","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1468",1468,"Gm12576","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1469",1469,"Gm34342","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1470",1470,"Pla2g2c","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1471",1471,"Rsrc1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1472",1472,"Ube2g2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",1,2
+"1473",1473,"Dzip3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1474",1474,"Gm41668","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1475",1475,"Gm30944","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1476",1476,"C330027C09Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1477",1477,"2610035F20Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1478",1478,"Fbxl19","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1479",1479,"Gm32766","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1480",1480,"Gm26871","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1481",1481,"Gm39359","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1482",1482,"Zfp180","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1483",1483,"Map3k12","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1484",1484,"Scarna13","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1485",1485,"Dreh","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1486",1486,"Gm31097","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1487",1487,"Tial1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1488",1488,"Peg3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1489",1489,"Meig1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1490",1490,"Hoxa13","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1491",1491,"Mnt","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1492",1492,"Gad1os","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1493",1493,"Irx5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1494",1494,"Usp29","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1495",1495,"Gm32816","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1496",1496,"Fbxo16","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1497",1497,"Gm11992","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1498",1498,"Tbx2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1499",1499,"Mir3069","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1500",1500,"Mir7043","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1501",1501,"Cass4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1502",1502,"Shox2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1503",1503,"Gm34621","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1504",1504,"Mir744","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1505",1505,"Mc4r","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1506",1506,"Gm41249","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1507",1507,"4930404K13Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1508",1508,"Gm30448","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1509",1509,"Dlx1as","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1510",1510,"Gm29398","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1511",1511,"Spink8","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1512",1512,"4930452N14Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1513",1513,"Eif4e3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1514",1514,"Mir466k","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1515",1515,"Hnf1b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1516",1516,"Nkx6-1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1517",1517,"Nim1k","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1518",1518,"2610027K06Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1519",1519,"8430419K02Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1520",1520,"Btg3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1521",1521,"9330154J02Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1522",1522,"Il7r","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1523",1523,"Gm42132","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1524",1524,"Gm31510","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1525",1525,"Tnfaip8l3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1526",1526,"1700047M11Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1527",1527,"Slc32a1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1528",1528,"Gm30524","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1529",1529,"Gm40290","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1530",1530,"Gm14204","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1531",1531,"Cfap161","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1532",1532,"AA623943","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1533",1533,"Sun3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1534",1534,"Gm34664","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1535",1535,"Gm33357","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1536",1536,"Gm35222","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1537",1537,"Gm36496","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1538",1538,"4930440I19Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1539",1539,"Gm32517","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1540",1540,"Pde6b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1541",1541,"Gm41077","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1542",1542,"Ak4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1543",1543,"Fhad1os2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1544",1544,"Gm39903","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1545",1545,"Gm33800","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1546",1546,"Dlx6","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1547",1547,"Tbx4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1548",1548,"Gm33496","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1549",1549,"Atp13a3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1550",1550,"LOC108168226","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1551",1551,"Gm35520","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1552",1552,"Gm20110","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1553",1553,"Sfxn1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1554",1554,"Snord47","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1555",1555,"Gm41907","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1556",1556,"Tagln3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1557",1557,"Gm3279","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1558",1558,"Shc3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1559",1559,"1700039I01Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1560",1560,"Zfp697","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1561",1561,"Gm35099","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1562",1562,"Gm11468","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1563",1563,"Mir129-2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1564",1564,"Gm15509","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1565",1565,"Spata16","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1566",1566,"Gcnt7","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1567",1567,"Arhgap17","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1568",1568,"Gm40671","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1569",1569,"Mir129b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1570",1570,"Il1a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1571",1571,"Piezo1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1572",1572,"Hmx2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1573",1573,"Gm41979","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1574",1574,"2700012I20Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1575",1575,"Gm41183","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1576",1576,"Gm35434","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1577",1577,"Gm13546","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1578",1578,"Gm40130","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1579",1579,"Gm35652","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1580",1580,"3110015C05Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1581",1581,"Pex5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1582",1582,"Fzd3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1583",1583,"Gm33152","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1584",1584,"Anxa3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",1,2
+"1585",1585,"Gm40108","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1586",1586,"Gm31069","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1587",1587,"Lrrc10b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1588",1588,"LOC108168786","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1589",1589,"Otx2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1590",1590,"Ankrd46","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1591",1591,"Gm40259","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1592",1592,"Sh2d5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1593",1593,"Tlr5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1594",1594,"Gm40597","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1595",1595,"Gm42296","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1596",1596,"Gm39070","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1597",1597,"LOC108167738","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1598",1598,"LOC101056032","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1599",1599,"4930532M18Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1600",1600,"Mir128-2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1601",1601,"Evx2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1602",1602,"BC030867","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1603",1603,"Mir6402","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1604",1604,"Gm9895","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1605",1605,"Gm35186","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1606",1606,"Gm31906","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1607",1607,"Gm32542","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1608",1608,"Gm31790","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1609",1609,"Mir215","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1610",1610,"Cldn18","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1611",1611,"Gm36431","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1612",1612,"Gm29230","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1613",1613,"Twist1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1614",1614,"A330069K06Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1615",1615,"2900060L22Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1616",1616,"I830077J02Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1617",1617,"Sft2d2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1618",1618,"Gm29571","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1619",1619,"Gm31939","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1620",1620,"Ccdc86","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1621",1621,"Gm8493","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1622",1622,"Intu","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1623",1623,"Dnttip1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1624",1624,"Spns2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1625",1625,"Gm38543","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1626",1626,"Smlr1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1627",1627,"Tas2r119","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1628",1628,"Ccdc185","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1629",1629,"Gm32391","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1630",1630,"Mir194-1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1631",1631,"Adck4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1632",1632,"Slc6a5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1633",1633,"Gm35967","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1634",1634,"Psenen","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1635",1635,"Wfdc3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1636",1636,"Mirlet7c-1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1637",1637,"Mir6400","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1638",1638,"1110032A03Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1639",1639,"Gm33585","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1640",1640,"Gm40912","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1641",1641,"Gm12916","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1642",1642,"Gas2l1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1643",1643,"Pkm","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1644",1644,"C030004G16Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1645",1645,"LOC102642435","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1646",1646,"Gm31746","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1647",1647,"Gm33880","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1648",1648,"U2af1l4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1649",1649,"LOC108168876","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1650",1650,"Gm30663","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1651",1651,"Gm34848","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1652",1652,"Nup107","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1653",1653,"Tmem38b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1654",1654,"B130024G19Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1655",1655,"LOC105246307","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1656",1656,"Gm31552","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1657",1657,"LOC105246571","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1658",1658,"A830019L24Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1659",1659,"Atp1b1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1660",1660,"Dlx2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1661",1661,"Smad3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1662",1662,"Nudt13","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1663",1663,"E030030I06Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1664",1664,"Dnajb14","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1665",1665,"Gm41250","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1666",1666,"LOC105243139","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1667",1667,"Gm30444","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1668",1668,"Ttc6","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1669",1669,"Dgkg","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1670",1670,"Gm35712","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1671",1671,"Gm31147","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1672",1672,"Dlx6os2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1673",1673,"Sox30","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1674",1674,"Gm34496","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1675",1675,"Gm35431","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1676",1676,"4930447F24Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1677",1677,"Rasl10a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1678",1678,"Gm15991","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1679",1679,"Plod2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1680",1680,"Fscn1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1681",1681,"Gm39031","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1682",1682,"Mir99a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1683",1683,"Gm33176","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1684",1684,"Gm32319","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1685",1685,"Gm35497","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1686",1686,"Gm38712","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1687",1687,"Sin3a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1688",1688,"Gm10658","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1689",1689,"Mapk1ip1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1690",1690,"Gm31226","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1691",1691,"Chrnb3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1692",1692,"Gm5415","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1693",1693,"Ppp2r2d","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1694",1694,"Btbd9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1695",1695,"4931403G20Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1696",1696,"Mir684-1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1697",1697,"Hook2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1698",1698,"Gm4371","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1699",1699,"Dph1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1700",1700,"Klc1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1701",1701,"Gm32328","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1702",1702,"Polr3g","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1703",1703,"Gm32767","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1704",1704,"Irak3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1705",1705,"Irx1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1706",1706,"Gm38500","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1707",1707,"Sp2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1708",1708,"Abhd1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1709",1709,"Gm31455","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1710",1710,"Prdm10","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1711",1711,"Use1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1712",1712,"Gm35408","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1713",1713,"LOC102634481","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1714",1714,"Otx2os1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1715",1715,"Gm34281","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1716",1716,"Gm39842","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1717",1717,"Fadd","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1718",1718,"Gm39280","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1719",1719,"Gm36907","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1720",1720,"Gm32624","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1721",1721,"Gm33528","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1722",1722,"Raet1e","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1723",1723,"Gm34256","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1724",1724,"Mir5625","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1725",1725,"Slc35f6","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1726",1726,"B430319G15Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1727",1727,"LOC108168903","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1728",1728,"4930546C10Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1729",1729,"Gm13375","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1730",1730,"Abca8b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1731",1731,"Gm41611","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1732",1732,"Spata45","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1733",1733,"Tmem253","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1734",1734,"Gm33769","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1735",1735,"Gm38937","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1736",1736,"Mir6239","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1737",1737,"Gm5607","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1738",1738,"Mblac2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1739",1739,"Gm33821","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1740",1740,"Gm41019","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1741",1741,"Pcca","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1742",1742,"Arhgap21","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1743",1743,"Gm27239","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1744",1744,"4930401O10Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1745",1745,"Mir28a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1746",1746,"Gm31620","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1747",1747,"Bub3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1748",1748,"Gm34957","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1749",1749,"Sox1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1750",1750,"4930579H20Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1751",1751,"Gm20389","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1752",1752,"Nr2f2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1753",1753,"Gm36561","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1754",1754,"Sall3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1755",1755,"Fam19a2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1756",1756,"Mettl24","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1757",1757,"Gm36368","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1758",1758,"Oaz2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1759",1759,"1110058D11Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1760",1760,"Gm5563","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1761",1761,"Gm36902","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1762",1762,"Gm30774","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1763",1763,"Foxa1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1764",1764,"Gm30465","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1765",1765,"Erich3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1766",1766,"Hmx3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1767",1767,"Gm38448","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1768",1768,"Wdr64","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1769",1769,"Prlhr","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1770",1770,"Mfsd7b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1771",1771,"Gm10362","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1772",1772,"Gm41958","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1773",1773,"Gm36694","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1774",1774,"Gm41755","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1775",1775,"LOC108168877","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1776",1776,"Lsm10","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1777",1777,"1700007P06Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1778",1778,"Pou4f1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1779",1779,"Gm30693","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1780",1780,"Gm39576","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1781",1781,"9230113P08Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1782",1782,"Gm34455","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1783",1783,"Sp9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1784",1784,"Pax3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1785",1785,"Mir6371","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1786",1786,"Igflr1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1787",1787,"Eif4enif1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1788",1788,"Pcdhac2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1789",1789,"1700016G22Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1790",1790,"Neurod6","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1791",1791,"Mtpap","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1792",1792,"Gm35623","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1793",1793,"Klf9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1794",1794,"Psma3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1795",1795,"Gm32758","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1796",1796,"Pkig","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1797",1797,"Rslcan18","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1798",1798,"Mcur1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1799",1799,"Gm32322","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1800",1800,"Gm38808","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1801",1801,"Gm16537","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1802",1802,"Gm34343","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1803",1803,"Gm32051","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1804",1804,"Gm36107","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1805",1805,"Syn1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1806",1806,"Mafk","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs (TF)",1,2
+"1807",1807,"Mgrn1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1808",1808,"LOC108168356","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1809",1809,"Gm35525","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1810",1810,"Gm14167","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1811",1811,"LOC105247329","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1812",1812,"LOC108168909","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1813",1813,"Tefm","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1814",1814,"Gm31385","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1815",1815,"D430036J16Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1816",1816,"Decr1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1817",1817,"4930596I21Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1818",1818,"Gm11559","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1819",1819,"9130019P16Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1820",1820,"Mir1950","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1821",1821,"Fkbp1a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1822",1822,"Sorcs1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1823",1823,"Pla2g3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1824",1824,"Gm1587","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1825",1825,"2900079G21Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1826",1826,"S100b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1827",1827,"Gm39224","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1828",1828,"Gm34056","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1829",1829,"Gm31370","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1830",1830,"Gm32459","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1831",1831,"Gm40743","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1832",1832,"AI839979","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1833",1833,"Trappc3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1834",1834,"Dusp19","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1835",1835,"Lekr1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1836",1836,"9230104L09Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1837",1837,"A230020J21Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1838",1838,"LOC108169157","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1839",1839,"Gm20063","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1840",1840,"Cstl1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1841",1841,"Gm33514","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1842",1842,"8430408G22Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1843",1843,"Polr1e","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1844",1844,"Tagap1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1845",1845,"Mir181b-1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1846",1846,"Gm34581","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1847",1847,"Ddrgk1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1848",1848,"Ccdc148","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1849",1849,"Mir8120","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1850",1850,"Gm39484","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1851",1851,"LOC108168983","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1852",1852,"Zkscan6","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1853",1853,"Itpa","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1854",1854,"Gm36263","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1855",1855,"Prss16","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1856",1856,"Npff","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1857",1857,"LOC108169132","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1858",1858,"Gm41558","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1859",1859,"Mir181a-1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1860",1860,"Gm33624","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1861",1861,"Gm30810","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1862",1862,"Gm38670","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1863",1863,"Gm33936","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1864",1864,"Mir133c","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1865",1865,"Mir145a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1866",1866,"Gm34116","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1867",1867,"Mir1952","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1868",1868,"Trhr2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1869",1869,"1700036G14Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1870",1870,"Gm31734","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1871",1871,"Ppp1r11","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1872",1872,"A530006G24Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1873",1873,"LOC108167757","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1874",1874,"Gm40781","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1875",1875,"Gm30723","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1876",1876,"Alg9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1877",1877,"Mad2l1bp","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1878",1878,"Gm31707","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1879",1879,"5430416N02Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1880",1880,"Gm39448","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1881",1881,"Nrde2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1882",1882,"Wipf3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1883",1883,"Gm36243","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1884",1884,"Stx3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1885",1885,"Six1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1886",1886,"Rsph3b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1887",1887,"Gm38476","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1888",1888,"Card14","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1889",1889,"LOC108167591","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1890",1890,"Gm39017","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1891",1891,"Lyrm7os","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1892",1892,"Proser3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1893",1893,"Tomm70a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1894",1894,"Metap2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1895",1895,"Gm41171","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1896",1896,"Gm38782","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1897",1897,"Gm12436","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1898",1898,"Gm31530","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1899",1899,"Sfi1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1900",1900,"Gm33596","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1901",1901,"Ppie","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1902",1902,"Sowahb","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_SRGs",NA,1,2
+"1903",1903,"Gm34847","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1904",1904,"Srsf9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1905",1905,"Gm34358","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1906",1906,"Gm41297","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1907",1907,"Lpar1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",1,2
+"1908",1908,"Rab6a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1909",1909,"Gm35614","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1910",1910,"Mir770","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1911",1911,"Gm34484","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1912",1912,"Gm41029","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1913",1913,"Gm36863","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1914",1914,"Gm30791","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1915",1915,"Krtap4-16","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1916",1916,"LOC108168339","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1917",1917,"1810007C17Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1918",1918,"Bre","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1919",1919,"Gm35554","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1920",1920,"Tbc1d22a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1921",1921,"Gm35171","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1922",1922,"Mlh3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1923",1923,"Gm36607","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1924",1924,"Smap1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1925",1925,"Gm35464","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1926",1926,"Gm39908","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1927",1927,"Otx1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1928",1928,"Gm42089","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1929",1929,"Rbks","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1930",1930,"Mrpl48","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1931",1931,"Vdac1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1932",1932,"Gm39168","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1933",1933,"Gm39166","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1934",1934,"Gm30759","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1935",1935,"Chrna1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1936",1936,"Gm38626","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1937",1937,"Pmfbp1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1938",1938,"Gm31601","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1939",1939,"Gm40827","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1940",1940,"Rtn4rl1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1941",1941,"Gm30120","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1942",1942,"Ap5m1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1943",1943,"Brca1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1944",1944,"1110002J07Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1945",1945,"Gm39698","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1946",1946,"Gm36767","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1947",1947,"4930525C09Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1948",1948,"Ppp2r3a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1949",1949,"Gm3837","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1950",1950,"Gm38766","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1951",1951,"Gm35295","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1952",1952,"Gm39391","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1953",1953,"LOC108168026","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1954",1954,"Nbr1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1955",1955,"Mir143","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1956",1956,"Cd109","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA","in situ sustained depol_SRGs",NA,1,2
+"1957",1957,"Lrp11","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1958",1958,"Gm39084","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1959",1959,"Mir7038","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1960",1960,"Gm40554","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1961",1961,"LOC108168294","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1962",1962,"Lao1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1963",1963,"Tcf7l2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1964",1964,"Gm36840","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1965",1965,"Klhl2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_SRGs",1,2
+"1966",1966,"Dync1i1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1967",1967,"Gm42356","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1968",1968,"Gm10914","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1969",1969,"Tagap","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1970",1970,"Dlx6os1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1971",1971,"Gm34648","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1972",1972,"Gm10791","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1973",1973,"1700110K17Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1974",1974,"Gm34907","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1975",1975,"Mir6910","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1976",1976,"Ywhaz","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1977",1977,"Gm33447","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1978",1978,"Gm34718","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1979",1979,"Emc4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1980",1980,"Gm41616","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1981",1981,"Serinc2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1982",1982,"D330050G23Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1983",1983,"1700012D16Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1984",1984,"1700006H20Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1985",1985,"Mir710","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1986",1986,"1700020N01Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1987",1987,"Xcl1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1988",1988,"3200001D21Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1989",1989,"Gm39843","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1990",1990,"4931408D14Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1991",1991,"Exoc4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1992",1992,"Gm41059","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1993",1993,"Adck1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1994",1994,"Atox1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1995",1995,"Trmt61a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1996",1996,"Gm6498","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1997",1997,"Rps19bp1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1998",1998,"Gzmg","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"1999",1999,"Gm39474","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2000",2000,"Gm38885","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2001",2001,"15-Sep","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2002",2002,"Gm33203","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2003",2003,"Gm35608","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2004",2004,"Foxj2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2005",2005,"Fndc7","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2006",2006,"Gm5086","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2007",2007,"Gm20783","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2008",2008,"Gm38791","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2009",2009,"Serpina3n","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2010",2010,"Chst11","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2011",2011,"Gm30113","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2012",2012,"Cd163l1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2013",2013,"Cdca8","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2014",2014,"Hs2st1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2015",2015,"Gm30880","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2016",2016,"Iglon5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2017",2017,"9930104L06Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2018",2018,"LOC108168027","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2019",2019,"4933411E08Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2020",2020,"Gm31436","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2021",2021,"Golt1b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2022",2022,"Utp20","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2023",2023,"Gm35740","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2024",2024,"Cox14","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2025",2025,"Ppp1r1c","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2026",2026,"Recql","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2027",2027,"Gm41497","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2028",2028,"LOC102638993","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2029",2029,"Igfals","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2030",2030,"Gm34288","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2031",2031,"Gm36079","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2032",2032,"Gm35196","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2033",2033,"Dlc1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs",1,2
+"2034",2034,"Bcl2l10","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2035",2035,"Gm41189","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2036",2036,"Mir449a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2037",2037,"Anln","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2038",2038,"Gm40892","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2039",2039,"Dctn1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2040",2040,"Gm33103","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2041",2041,"Extl3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2042",2042,"Mir449b","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2043",2043,"BC048644","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2044",2044,"Gm32010","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2045",2045,"A830021M18Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2046",2046,"Usp50","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2047",2047,"Gm38754","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2048",2048,"Osbpl11","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2049",2049,"LOC108167587","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2050",2050,"Gm20618","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2051",2051,"Unc5a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2052",2052,"Rph3a","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2053",2053,"Iars2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2054",2054,"Gm41549","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2055",2055,"Eif4a2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2056",2056,"Rbm34","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2057",2057,"Pisd-ps3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2058",2058,"Gm31313","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2059",2059,"Gphb5","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2060",2060,"Mir6541","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2061",2061,"Gm35558","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2062",2062,"Dync1h1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2063",2063,"Hoxd13","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2064",2064,"Wash1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2065",2065,"Bpnt1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,"V1 scRNAseq_PRGs (TF)",1,2
+"2066",2066,"Zfp956","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2067",2067,"Gm40659","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2068",2068,"Rdh14","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2069",2069,"Gm41787","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2070",2070,"LOC108167558","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2071",2071,"Impact","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2072",2072,"Slc25a41","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2073",2073,"Kif17","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2074",2074,"Gm41553","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2075",2075,"Fahd1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2076",2076,"Tspyl4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2077",2077,"Gm26564","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2078",2078,"Gm36822","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2079",2079,"Ccdc9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2080",2080,"Gm6936","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2081",2081,"Gm35060","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2082",2082,"Ctla4","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2083",2083,"Gm32888","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2084",2084,"Fggy","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2085",2085,"Gm11454","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2086",2086,"Gm39512","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2087",2087,"Gm35772","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2088",2088,"Zfp9","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2089",2089,"Dpt","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2090",2090,"Gm28497","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2091",2091,"Aifm1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2092",2092,"Gm40206","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2093",2093,"Gm40814","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2094",2094,"LOC108167650","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2095",2095,"Spats1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2096",2096,"Gm30193","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2097",2097,"Zfp708","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2098",2098,"Gm33449","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2099",2099,"Gm13817","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2100",2100,"Lcmt1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2101",2101,"Gm32365","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2102",2102,"Gm33945","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2103",2103,"Ccdc121","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2104",2104,"Mtmr12","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2105",2105,"Gm34613","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2106",2106,"LOC108168280","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2107",2107,"Gm42084","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2108",2108,"Gm41980","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2109",2109,"4933440J02Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2110",2110,"Nt5dc3","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2111",2111,"Gm10578","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2112",2112,"Cd83","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2113",2113,"Atpaf1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2114",2114,"A730049H05Rik","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2115",2115,"Kdelr2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2116",2116,"LOC108168357","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2117",2117,"Sim2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2118",2118,"Nps","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2119",2119,"Has1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2120",2120,"Ube2z","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2121",2121,"Sgms2","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2122",2122,"Gm31175","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2123",2123,"Fndc1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2124",2124,"Gm20635","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2125",2125,"Twsg1","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2126",2126,"Kidins220","CaMK2a-Fos CUT&RUN_Fos-bound in vicinity post 2-3h KA",NA,NA,1,1
+"2127",2127,"Dusp5",NA,"in situ sustained depol_rPRGs",NA,NA,1
+"2128",2128,"Glt28d2",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2129",2129,"Sv2c",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2130",2130,"C2cd4b",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2131",2131,"Prok2",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2132",2132,"Cartpt",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2133",2133,"Chrm2",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2134",2134,"Ccdc184",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2135",2135,"Alpk1",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2136",2136,"Wdr90",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2137",2137,"Coq10b",NA,"in situ sustained depol_dPRGs","V1 scRNAseq_PRGs",NA,2
+"2138",2138,"Mctp2",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2139",2139,"Cystm1",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2140",2140,"Ptger4",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2141",2141,"Adm",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2142",2142,"Pax1",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2143",2143,"Crem",NA,"in situ sustained depol_dPRGs","V1 scRNAseq_PRGs (TF)",NA,2
+"2144",2144,"Pou3f1",NA,"in situ sustained depol_dPRGs","V1 scRNAseq_PRGs (TF)",NA,2
+"2145",2145,"Chst8",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2146",2146,"Tbc1d8b",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2147",2147,"Pgap1",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2148",2148,"Slc7a1",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2149",2149,"Nap1l5",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2150",2150,"Atp10d",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2151",2151,"Slc40a1",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2152",2152,"Mthfd2",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2153",2153,"Msantd1",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2154",2154,"Tacr3",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2155",2155,"Herpud1",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2156",2156,"Stard4",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2157",2157,"Nppc",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2158",2158,"Pard6a",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2159",2159,"Pcdh20",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2160",2160,"Mpp7",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2161",2161,"Kcns2",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2162",2162,"Cort",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2163",2163,"Gpr26",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2164",2164,"Nr4a2",NA,"in situ sustained depol_dPRGs","V1 scRNAseq_PRGs (TF)",NA,2
+"2165",2165,"Tec",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2166",2166,"Rasgrp1",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2167",2167,"Npbwr1",NA,"in situ sustained depol_dPRGs",NA,NA,1
+"2168",2168,"Meox1",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2169",2169,"Kcnj4",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2170",2170,"Klhl4",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2171",2171,"Sostdc1",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2172",2172,"Spred3",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2173",2173,"Mfap3l",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2174",2174,"Kcna1",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2175",2175,"Dennd2c",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2176",2176,"Stc2",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2177",2177,"Hunk",NA,"in situ sustained depol_SRGs","V1 scRNAseq_SRGs",NA,2
+"2178",2178,"Kcnh8",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2179",2179,"Chac1",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2180",2180,"Stac",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2181",2181,"Palmd",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2182",2182,"Hspb3",NA,"in situ sustained depol_SRGs",NA,NA,1
+"2183",2183,"Nab2",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2184",2184,"Hivep3",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2185",2185,"Gtf3c1",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2186",2186,"Ccnt1",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2187",2187,"Cebpb",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2188",2188,"Bcl6b",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2189",2189,"Jund",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2190",2190,"Klf2",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2191",2191,"Srf",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2192",2192,"Klf7",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2193",2193,"Ssb",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2194",2194,"Fxr1",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2195",2195,"Sdccag3",NA,NA,"V1 scRNAseq_PRGs (TF)",NA,1
+"2196",2196,"Gfod1",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2197",2197,"Fam150b",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2198",2198,"Timp2",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2199",2199,"Ctsb",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2200",2200,"Ism1",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2201",2201,"Plaur",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2202",2202,"Timp3",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2203",2203,"Mbp",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2204",2204,"Igfbp2",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2205",2205,"Thsd4",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2206",2206,"Sema3g",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2207",2207,"Ccl2",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2208",2208,"Ccl7",NA,NA,"V1 scRNAseq_PRGs (sec)",NA,1
+"2209",2209,"Cdc42ep3",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2210",2210,"Gm13889",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2211",2211,"Phf21b",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2212",2212,"Phlda1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2213",2213,"Tfrc",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2214",2214,"Camk1g",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2215",2215,"Bhlhe40",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2216",2216,"Chuk",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2217",2217,"P4ha1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2218",2218,"Snhg3",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2219",2219,"Adrb1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2220",2220,"Htatsf1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2221",2221,"Ube2g1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2222",2222,"Kras",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2223",2223,"Socs2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2224",2224,"Cenpb",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2225",2225,"Gm28578",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2226",2226,"Nrd1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2227",2227,"Plp1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2228",2228,"Cpne8",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2229",2229,"Glul",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2230",2230,"Gpt2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2231",2231,"Kctd12",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2232",2232,"Noct",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2233",2233,"Ntrk3",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2234",2234,"Paqr8",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2235",2235,"Pcnp",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2236",2236,"Prickle2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2237",2237,"Tcof1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2238",2238,"Wbp5",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2239",2239,"Cpeb1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2240",2240,"Ubfd1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2241",2241,"Elavl4",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2242",2242,"Snx19",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2243",2243,"Usp1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2244",2244,"Arrdc3",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2245",2245,"Ppfia1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2246",2246,"Cdr2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2247",2247,"Pex11b",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2248",2248,"Ssfa2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2249",2249,"Avl9",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2250",2250,"Slc1a2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2251",2251,"Bambi",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2252",2252,"Ccnl1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2253",2253,"Tsc22d3",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2254",2254,"Usp2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2255",2255,"Wdr31",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2256",2256,"1810011O10Rik",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2257",2257,"Acta1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2258",2258,"Actb",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2259",2259,"Actg1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2260",2260,"Akap12",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2261",2261,"Azin1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2262",2262,"Clic4",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2263",2263,"Cnn2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2264",2264,"Dnaja1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2265",2265,"Dusp8",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2266",2266,"Epha2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2267",2267,"Fermt2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2268",2268,"Gpx1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2269",2269,"Hsp90aa1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2270",2270,"Hsp90ab1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2271",2271,"Myadm",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2272",2272,"Picalm",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2273",2273,"Serpinh1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2274",2274,"Skil",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2275",2275,"Swap70",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2276",2276,"Tuba1c",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2277",2277,"Vasp",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2278",2278,"Wdr1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2279",2279,"Zyx",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2280",2280,"Mal",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2281",2281,"Pak1ip1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2282",2282,"Bcl2l2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2283",2283,"Chordc1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2284",2284,"Cttnbp2nl",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2285",2285,"Hopx",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2286",2286,"Litaf",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2287",2287,"Lrrfip1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2288",2288,"Manba",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2289",2289,"Plxna2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2290",2290,"Pxdc1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2291",2291,"Rbm18",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2292",2292,"Rnd1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2293",2293,"Slc1a3",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2294",2294,"Snx18",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2295",2295,"Tmem252",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2296",2296,"Cacul1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2297",2297,"Cacybp",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2298",2298,"Ccnd2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2299",2299,"Crk",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2300",2300,"Fam107a",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2301",2301,"Irf2bp2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2302",2302,"Kcne4",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2303",2303,"Mat2a",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2304",2304,"Paxip1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2305",2305,"Phactr4",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2306",2306,"Rbm7",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2307",2307,"S1pr1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2308",2308,"Sfpq",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2309",2309,"Smtn",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2310",2310,"Trim16",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2311",2311,"Zfp644",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2312",2312,"Agfg1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2313",2313,"Ccdc117",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2314",2314,"Fech",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2315",2315,"Fkbp4",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2316",2316,"Fkbp5",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2317",2317,"Got1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2318",2318,"Id2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2319",2319,"Jdp2",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2320",2320,"Kpna4",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2321",2321,"Lyve1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2322",2322,"Marcksl1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2323",2323,"Mob4",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2324",2324,"Selk",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2325",2325,"Slc15a3",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2326",2326,"Snap23",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2327",2327,"Srp54b",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2328",2328,"Tbc1d10a",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2329",2329,"Trim44",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2330",2330,"Vcam1",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2331",2331,"Ywhah",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2332",2332,"Zfp326",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2333",2333,"Cldn11",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2334",2334,"Pde4b",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2335",2335,"Sec24d",NA,NA,"V1 scRNAseq_PRGs",NA,1
+"2336",2336,"Sox2",NA,NA,"V1 scRNAseq_SRGs (TF)",NA,1
+"2337",2337,"Dot1l",NA,NA,"V1 scRNAseq_SRGs (TF)",NA,1
+"2338",2338,"Pou3f3",NA,NA,"V1 scRNAseq_SRGs (TF)",NA,1
+"2339",2339,"Erf",NA,NA,"V1 scRNAseq_SRGs (TF)/V1 scRNAseq_SRGs (sec)",NA,1
+"2340",2340,"Rfx4",NA,NA,"V1 scRNAseq_SRGs (TF)",NA,1
+"2341",2341,"Mga",NA,NA,"V1 scRNAseq_SRGs (TF)/V1 scRNAseq_SRGs (sec)",NA,1
+"2342",2342,"Cbln4",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2343",2343,"Adamts13",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2344",2344,"Tinagl1",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2345",2345,"Nov",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2346",2346,"Tgfbi",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2347",2347,"Cbln2",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2348",2348,"Igf1",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2349",2349,"Igfbp5",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2350",2350,"Serpine2",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2351",2351,"Cxcl14",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2352",2352,"Angpt2",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2353",2353,"Anxa2",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2354",2354,"Adgrg1",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2355",2355,"Bmp2",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2356",2356,"Lox",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2357",2357,"Ntn4",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2358",2358,"Ret",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2359",2359,"Ccl9",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2360",2360,"Ctla2a",NA,NA,"V1 scRNAseq_SRGs (sec)",NA,1
+"2361",2361,"Nefm",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2362",2362,"Acad12",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2363",2363,"Ptp4a1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2364",2364,"Ano6",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2365",2365,"Emp1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2366",2366,"Zc3h7a",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2367",2367,"D030056L22Rik",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2368",2368,"Egln1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2369",2369,"Nhp2l1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2370",2370,"Ppme1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2371",2371,"Sgsm1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2372",2372,"Tsnax",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2373",2373,"Pde10a",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2374",2374,"Prkg2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2375",2375,"Iqgap2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2376",2376,"Eno1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2377",2377,"H2-Q4",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2378",2378,"Syn2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2379",2379,"Isy1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2380",2380,"Arih1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2381",2381,"Baiap2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2382",2382,"Bex1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2383",2383,"Cenpa",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2384",2384,"Eef1e1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2385",2385,"Elovl4",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2386",2386,"Gars",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2387",2387,"Mdm2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2388",2388,"Osbpl3",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2389",2389,"Rusc1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2390",2390,"Sccpdh",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2391",2391,"Chp1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2392",2392,"Llph",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2393",2393,"Ngef",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2394",2394,"Sept6",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2395",2395,"Nkain3",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2396",2396,"S1pr2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2397",2397,"Lypla2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2398",2398,"Mvk",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2399",2399,"Ccnd1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2400",2400,"Tuba1a",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2401",2401,"Msn",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2402",2402,"Arpc1b",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2403",2403,"Cap2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2404",2404,"Cast",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2405",2405,"Cmip",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2406",2406,"Csgalnact2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2407",2407,"Ergic1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2408",2408,"Fam114a1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2409",2409,"Ltn1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2410",2410,"Ptpn9",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2411",2411,"Slc10a7",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2412",2412,"Slc12a2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2413",2413,"Thbd",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2414",2414,"Ackr3",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2415",2415,"Ctla2b",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2416",2416,"Fyn",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2417",2417,"Gsk3b",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2418",2418,"Plcl1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2419",2419,"Rad54l2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2420",2420,"Nfxl1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2421",2421,"Arap2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2422",2422,"Letmd1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2423",2423,"Pid1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2424",2424,"Tank",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2425",2425,"Zfand3",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2426",2426,"Eps8",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2427",2427,"Mib1",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2428",2428,"Ptk7",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2429",2429,"Tmem9b",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2430",2430,"Tpm2",NA,NA,"V1 scRNAseq_SRGs",NA,1
+"2431",2431,"Uba5",NA,NA,"V1 scRNAseq_SRGs",NA,1
